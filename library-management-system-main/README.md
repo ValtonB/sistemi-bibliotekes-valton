@@ -1,2 +1,16 @@
-# library-management-system
-This GitHub repo is source code of Blog Post: <a href="https://www.javaguides.net/2023/08/library-management-system-project-using-spring-boot.html">Library Management System using Spring Boot</a>
+# 📚 Sistemi i Menaxhimit të Bibliotekës
+
+Ky është një aplikacion profesional i ndërtuar me **Spring Boot** për menaxhimin e librave, autorëve dhe kategorive.
+
+## 🛠️ Teknologjitë
+* **Java 17**
+* **Spring Boot 3**
+* **H2 Database** (In-memory)
+* **Maven**
+
+## 🚀 Si të ekzekutohet
+1. Hapni projektin në IntelliJ IDEA.
+2. Sigurohuni që JDK 17 është i konfiguruar.
+3. Run `LibraryManagementAppApplication.java`.
+
+**Punuar nga: Valton Bekteshi**
